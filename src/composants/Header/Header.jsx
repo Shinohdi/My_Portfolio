@@ -1,12 +1,21 @@
 import { NavLink } from 'react-router-dom';
+import './style/Header.css';
+import CV from '../../data/CV_AMRI_Mahdi.pdf';
 
 function Header() {
     return (
-        <nav>
-            <NavLink to={'/My_Portfolio/'} className="nav_name">
-                Mahdi AMRI
-            </NavLink>
-            <NavLink to={'/My_Portfolio/test'}>Test</NavLink>
+        <nav className="header">
+            <div className="header__name">
+                <NavLink to={'/My_Portfolio/'} className="header__name--title">
+                    Mahdi AMRI
+                </NavLink>
+                <p className="header__name--subtitle">Développeur</p>
+            </div>
+            <div className="header__cv">
+                <a href={CV} download="CV_Mahdi_AMRI.pdf">
+                    Mon CV
+                </a>
+            </div>
         </nav>
     );
 }

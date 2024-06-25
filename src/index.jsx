@@ -4,6 +4,7 @@ import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 import Header from './composants/Header/Header';
 import Accueil from './pages/Accueil/Accueil';
 import Test from './pages/Test/Test';
+import './indexStyle/index.css';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
