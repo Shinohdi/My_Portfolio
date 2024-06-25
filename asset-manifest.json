@@ -1,10 +1,14 @@
 {
   "files": {
-    "main.js": "/My_Portfolio/static/js/main.3e72aa41.js",
+    "main.css": "/My_Portfolio/static/css/main.7ab9b10e.css",
+    "main.js": "/My_Portfolio/static/js/main.6e1246e4.js",
+    "static/media/CV_AMRI_Mahdi.pdf": "/My_Portfolio/static/media/CV_AMRI_Mahdi.1b5053c2152741c29714.pdf",
     "index.html": "/My_Portfolio/index.html",
-    "main.3e72aa41.js.map": "/My_Portfolio/static/js/main.3e72aa41.js.map"
+    "main.7ab9b10e.css.map": "/My_Portfolio/static/css/main.7ab9b10e.css.map",
+    "main.6e1246e4.js.map": "/My_Portfolio/static/js/main.6e1246e4.js.map"
   },
   "entrypoints": [
-    "static/js/main.3e72aa41.js"
+    "static/css/main.7ab9b10e.css",
+    "static/js/main.6e1246e4.js"
   ]
 }
