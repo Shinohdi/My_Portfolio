@@ -1,12 +1,4 @@
-.description {
-  box-sizing: border-box;
-  padding: 50px;
-  margin-top: 100px;
-  margin-bottom: 100px;
-  background-color: #b3b3b3;
-  border-radius: 5px;
-  box-shadow: inset 0px 0px 10px 0px rgba(0, 0, 0, 0.3);
-}
-.description p {
-  color: #525252;
-}/*# sourceMappingURL=Accueil.css.map */
+.home__about {
+    margin-top: 100px;
+    margin-bottom: 100px;
+} /*# sourceMappingURL=Accueil.css.map */

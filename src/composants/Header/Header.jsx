@@ -7,7 +7,7 @@ function Header() {
         <nav className="header">
             <div className="header__name">
                 <NavLink to={'/My_Portfolio/'} className="header__name--title">
-                    Mahdi AMRI
+                    <h1>Mahdi AMRI</h1>
                 </NavLink>
                 <p className="header__name--subtitle">Développeur</p>
             </div>

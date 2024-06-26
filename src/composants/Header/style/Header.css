@@ -8,8 +8,9 @@
   text-decoration: none;
   color: white;
 }
-.header__name--title {
-  font-size: 36px;
+.header__name--title h1 {
+  font-size: 44px;
+  margin: 0;
 }
 .header__name--subtitle {
   font-size: 22px;
