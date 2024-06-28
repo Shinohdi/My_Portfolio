@@ -1,16 +1,41 @@
 [
     {
         "id": 1,
-        "titleId": "Le-caca-de-toute-la-ville",
-        "title": "Le caca de toute la ville",
-        "cover": "0Steam.png",
-        "description": "C'est pas des mensonges"
+        "titleId": "defend",
+        "title": "Defend",
+        "year": "2019",
+        "cover": "Logo_Defend.png",
+        "spec": {
+            "nbPeople": 3,
+            "gameEngine": "Construct 2",
+            "duration": "4 mois"
+        },
+        "description": "Jeu développé durant ma 1ere année à l'ICAN. Defend est un Bubble Shooter où le joueur prend le controle une tourelle d'un méca se trouvant au centre du niveau entouré d'agents ennemis."
     },
     {
         "id": 2,
-        "titleId": "Mais-t-es-pas-net",
-        "title": "Mais t'es pas net",
-        "cover": "Gnar.png",
-        "description": "Eh oh Baptiste"
+        "titleId": "city-tag",
+        "title": "City Tag",
+        "year": "2020",
+        "cover": "Logo_City_Tag.jpg",
+        "spec": {
+            "nbPeople": 5,
+            "gameEngine": "Unity3D",
+            "duration": "4 mois"
+        },
+        "description": "Jeu développé durant ma 2e année à l'ICAN. Le joueur incarne un tagueur habile qui devra montrer son art sur des panneaux publicitaires de la ville. Mais attention à ne pas se faire prendre par les forces de l'ordre."
+    },
+    {
+        "id": 3,
+        "titleId": "cywer",
+        "title": "Cywer",
+        "year": "2021",
+        "cover": "Logo_Cywer.png",
+        "spec": {
+            "nbPeople": 6,
+            "gameEngine": "Unity3D",
+            "duration": "8 mois"
+        },
+        "description": "Jeu développé durant ma 3e année à l'ICAN. Vous prenez le contrôle d'un avatar aux capacité de défense multiple combattant des hordes de monstres afin d'avancer d'arène en arène."
     }
 ]

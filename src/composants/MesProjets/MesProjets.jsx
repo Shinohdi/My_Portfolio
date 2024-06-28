@@ -5,14 +5,10 @@ import './style/MesProjets.css';
 function MesProjets() {
     const projetsList = data;
     return (
-        <div className="home__myWorks--projects">
+        <div className="projets">
             {projetsList.map((projet) => (
-                <div key={projet.id} className="projet">
-                    <Projet
-                        title={projet.title}
-                        cover={projet.cover}
-                        description={projet.description}
-                    />
+                <div key={projet.id} className="projets__projet">
+                    <Projet projet={projet} />
                 </div>
             ))}
         </div>

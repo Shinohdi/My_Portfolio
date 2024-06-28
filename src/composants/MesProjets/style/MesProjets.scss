@@ -1,0 +1,80 @@
+.projets {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 15px;
+
+    &__projet {
+        position: relative;
+        width: 30%;
+        border-radius: 10px;
+        padding: 3px;
+        background-color: rgb(37, 37, 37);
+
+        &--img {
+            width: 100%;
+            object-fit: cover;
+
+            img {
+                border-radius: 10px 10px 0px 0px;
+                width: 100%;
+                object-fit: cover;
+                height: 300px;
+            }
+
+            &-softDetails {
+                width: 420px;
+                height: 300px;
+                position: absolute;
+                top: 3px;
+                left: 3px;
+                border-radius: 10px 10px 0px 0px;
+                background-color: rgba($color: #000000, $alpha: 0.85);
+                display: flex;
+                flex-direction: column;
+                justify-content: center;
+                align-items: center;
+                gap: 20px;
+                transition: opacity 100ms ease-in-out;
+
+                .spec {
+                    width: 100%;
+                    display: flex;
+                    flex-direction: row;
+                    justify-content: space-evenly;
+
+                    &-text {
+                        display: flex;
+                        flex-direction: row;
+                        gap: 5px;
+
+                        i {
+                            margin-top: 2px;
+                        }
+                    }
+                }
+                p {
+                    margin: 0;
+                    font-weight: 600;
+                }
+            }
+        }
+        &--title {
+            margin: 0;
+            margin-top: 10px;
+            padding-left: 12px;
+        }
+        &--description {
+            margin: 0;
+            padding: 17px 20px 20px 12px;
+            text-align: justify;
+        }
+    }
+}
+
+.hide {
+    opacity: 0;
+}
+.display {
+    opacity: 1;
+}
