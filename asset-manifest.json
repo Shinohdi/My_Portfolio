@@ -1,16 +1,17 @@
 {
   "files": {
-    "main.css": "/My_Portfolio/static/css/main.7a1239f2.css",
-    "main.js": "/My_Portfolio/static/js/main.93f605f5.js",
-    "static/media/0Steam.png": "/My_Portfolio/static/media/0Steam.5f117daa1d6e6592834a.png",
-    "static/media/Gnar.png": "/My_Portfolio/static/media/Gnar.7edf72ce82e410129e66.png",
-    "static/media/CV_AMRI_Mahdi.pdf": "/My_Portfolio/static/media/CV_AMRI_Mahdi.1b5053c2152741c29714.pdf",
+    "main.css": "/My_Portfolio/static/css/main.75e55b7d.css",
+    "main.js": "/My_Portfolio/static/js/main.9fa0b97d.js",
+    "static/media/Logo_Cywer.png": "/My_Portfolio/static/media/Logo_Cywer.e9f94d807eecd52c5e94.png",
+    "static/media/Logo_City_Tag.jpg": "/My_Portfolio/static/media/Logo_City_Tag.3eef60fddeff3c233024.jpg",
+    "static/media/Logo_Defend.png": "/My_Portfolio/static/media/Logo_Defend.7d6437c37cec54e81a5a.png",
+    "static/media/CV_AMRI_Mahdi.pdf": "/My_Portfolio/static/media/CV_AMRI_Mahdi.134f645a991f2ec95760.pdf",
     "index.html": "/My_Portfolio/index.html",
-    "main.7a1239f2.css.map": "/My_Portfolio/static/css/main.7a1239f2.css.map",
-    "main.93f605f5.js.map": "/My_Portfolio/static/js/main.93f605f5.js.map"
+    "main.75e55b7d.css.map": "/My_Portfolio/static/css/main.75e55b7d.css.map",
+    "main.9fa0b97d.js.map": "/My_Portfolio/static/js/main.9fa0b97d.js.map"
   },
   "entrypoints": [
-    "static/css/main.7a1239f2.css",
-    "static/js/main.93f605f5.js"
+    "static/css/main.75e55b7d.css",
+    "static/js/main.9fa0b97d.js"
   ]
 }
