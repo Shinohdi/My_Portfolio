@@ -27,14 +27,28 @@ function Contact() {
 
     return (
         <>
-            <form className="form" ref={form} onSubmit={(e) => sendEmail(e)}>
-                <label htmlFor="name">Nom : </label>
-                <input type="text" name="name" />
-                <label htmlFor="email">Email : </label>
-                <input type="email" name="email" />
-                <label htmlFor="message">Message : </label>
-                <textarea type="text" name="message" />
-                <button type="submit">Envoyer</button>
+            <form
+                className="contactForm"
+                ref={form}
+                onSubmit={(e) => sendEmail(e)}
+            >
+                <label htmlFor="name">Nom </label>
+                <input type="text" name="name" className="contactForm__name" />
+                <label htmlFor="email">Email </label>
+                <input
+                    type="email"
+                    name="email"
+                    className="contactForm__email"
+                />
+                <label htmlFor="message">Message </label>
+                <textarea
+                    type="text"
+                    name="message"
+                    className="contactForm__message"
+                />
+                <button type="submit" className="contactForm__button">
+                    Envoyer
+                </button>
             </form>
         </>
     );

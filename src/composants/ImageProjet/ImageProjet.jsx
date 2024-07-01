@@ -28,7 +28,7 @@ function ImageProjet({ cover, spec, title }) {
                     </div>
                     <div className="spec-text">
                         <i className="fa-solid fa-gamepad"></i>
-                        <p>{spec.gameEngine}</p>
+                        <p>{spec.engine}</p>
                     </div>
                 </div>
                 <p>Cliquez pour plus de détails</p>

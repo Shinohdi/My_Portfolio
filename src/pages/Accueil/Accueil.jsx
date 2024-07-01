@@ -20,7 +20,15 @@ function Accueil() {
             </div>
             <div className="home__contact">
                 <h2>Contact</h2>
+                <p>Mon profil vous intéresse ? N'hésitez pas à me contacter.</p>
                 <Contact />
+                <p>
+                    Ou sinon envoyez-moi directement un mail à mon adresse :
+                    <a href="mailto:mahdi.amr@gmail.com">
+                        {' '}
+                        mahdi.amr@gmail.com
+                    </a>
+                </p>
             </div>
         </div>
     );

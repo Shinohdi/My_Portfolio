@@ -1,0 +1,26 @@
+.contactForm {
+    display: flex;
+    flex-direction: column;
+    min-width: 800px;
+    margin: auto;
+
+    label {
+        margin-bottom: 5px;
+    }
+
+    &__name,
+    &__email,
+    &__message,
+    &__button {
+        padding: 7px 0px 7px 5px;
+        font-size: 14px;
+        margin-bottom: 20px;
+    }
+    &__message {
+        min-height: 300px;
+    }
+    &__button {
+        max-width: 100px;
+        font-weight: 700;
+    }
+}

@@ -3,4 +3,18 @@
         margin-top: 100px;
         margin-bottom: 100px;
     }
+    &__myWorks {
+        margin-bottom: 100px;
+    }
+    &__contact {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        margin-bottom: 20px;
+
+        a {
+            text-decoration: none;
+            color: #32c7ff;
+        }
+    }
 }
