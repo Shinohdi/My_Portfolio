@@ -1,17 +1,19 @@
 {
   "files": {
-    "main.css": "/My_Portfolio/static/css/main.75e55b7d.css",
-    "main.js": "/My_Portfolio/static/js/main.9fa0b97d.js",
+    "main.css": "/My_Portfolio/static/css/main.6f970252.css",
+    "main.js": "/My_Portfolio/static/js/main.eb30e79b.js",
     "static/media/Logo_Cywer.png": "/My_Portfolio/static/media/Logo_Cywer.e9f94d807eecd52c5e94.png",
     "static/media/Logo_City_Tag.jpg": "/My_Portfolio/static/media/Logo_City_Tag.3eef60fddeff3c233024.jpg",
     "static/media/Logo_Defend.png": "/My_Portfolio/static/media/Logo_Defend.7d6437c37cec54e81a5a.png",
     "static/media/CV_AMRI_Mahdi.pdf": "/My_Portfolio/static/media/CV_AMRI_Mahdi.134f645a991f2ec95760.pdf",
+    "static/media/Logo_ArgentBank.png": "/My_Portfolio/static/media/Logo_ArgentBank.09c8bced9ffde80a38d3.png",
+    "static/media/avatar.png": "/My_Portfolio/static/media/avatar.fcb2af97957197c08909.png",
     "index.html": "/My_Portfolio/index.html",
-    "main.75e55b7d.css.map": "/My_Portfolio/static/css/main.75e55b7d.css.map",
-    "main.9fa0b97d.js.map": "/My_Portfolio/static/js/main.9fa0b97d.js.map"
+    "main.6f970252.css.map": "/My_Portfolio/static/css/main.6f970252.css.map",
+    "main.eb30e79b.js.map": "/My_Portfolio/static/js/main.eb30e79b.js.map"
   },
   "entrypoints": [
-    "static/css/main.75e55b7d.css",
-    "static/js/main.9fa0b97d.js"
+    "static/css/main.6f970252.css",
+    "static/js/main.eb30e79b.js"
   ]
 }
