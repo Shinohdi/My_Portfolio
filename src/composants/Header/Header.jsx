@@ -11,8 +11,18 @@ function Header() {
                 </NavLink>
                 <p className="header__name--subtitle">Développeur</p>
             </div>
-            <div className="header__cv">
-                <a href={CV} download="CV_Mahdi_AMRI.pdf">
+            <div className="header__buttons">
+                <a
+                    href="https://www.linkedin.com/in/amahdi/"
+                    className="header__buttons--linkedin link"
+                >
+                    Linkedin
+                </a>
+                <a
+                    href={CV}
+                    download="CV_Mahdi_AMRI.pdf"
+                    className="header__buttons--cv link"
+                >
                     Mon CV
                 </a>
             </div>

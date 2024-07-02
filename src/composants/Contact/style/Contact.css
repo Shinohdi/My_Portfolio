@@ -1,8 +1,8 @@
 .contactForm {
   display: flex;
   flex-direction: column;
-  min-width: 800px;
-  margin: auto;
+  justify-content: center;
+  width: 75%;
 }
 .contactForm label {
   margin-bottom: 5px;
