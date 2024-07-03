@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/My_Portfolio/static/css/main.66a1571d.css",
-    "main.js": "/My_Portfolio/static/js/main.3e4a503f.js",
+    "main.css": "/My_Portfolio/static/css/main.e90f6212.css",
+    "main.js": "/My_Portfolio/static/js/main.66fe9c8d.js",
     "reactPlayerYouTube.js": "/My_Portfolio/static/js/reactPlayerYouTube.8b000119.chunk.js",
     "reactPlayerSoundCloud.js": "/My_Portfolio/static/js/reactPlayerSoundCloud.b97f3868.chunk.js",
     "reactPlayerVimeo.js": "/My_Portfolio/static/js/reactPlayerVimeo.8471a7c5.chunk.js",
@@ -22,8 +22,8 @@
     "static/media/CV_AMRI_Mahdi.pdf": "/My_Portfolio/static/media/CV_AMRI_Mahdi.134f645a991f2ec95760.pdf",
     "static/media/Logo_ArgentBank.png": "/My_Portfolio/static/media/Logo_ArgentBank.09c8bced9ffde80a38d3.png",
     "index.html": "/My_Portfolio/index.html",
-    "main.66a1571d.css.map": "/My_Portfolio/static/css/main.66a1571d.css.map",
-    "main.3e4a503f.js.map": "/My_Portfolio/static/js/main.3e4a503f.js.map",
+    "main.e90f6212.css.map": "/My_Portfolio/static/css/main.e90f6212.css.map",
+    "main.66fe9c8d.js.map": "/My_Portfolio/static/js/main.66fe9c8d.js.map",
     "reactPlayerYouTube.8b000119.chunk.js.map": "/My_Portfolio/static/js/reactPlayerYouTube.8b000119.chunk.js.map",
     "reactPlayerSoundCloud.b97f3868.chunk.js.map": "/My_Portfolio/static/js/reactPlayerSoundCloud.b97f3868.chunk.js.map",
     "reactPlayerVimeo.8471a7c5.chunk.js.map": "/My_Portfolio/static/js/reactPlayerVimeo.8471a7c5.chunk.js.map",
@@ -40,7 +40,7 @@
     "reactPlayerPreview.240d1db1.chunk.js.map": "/My_Portfolio/static/js/reactPlayerPreview.240d1db1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.66a1571d.css",
-    "static/js/main.3e4a503f.js"
+    "static/css/main.e90f6212.css",
+    "static/js/main.66fe9c8d.js"
   ]
 }
