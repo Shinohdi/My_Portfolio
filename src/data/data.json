@@ -5,12 +5,28 @@
         "title": "Defend",
         "year": "2019",
         "cover": "Logo_Defend.png",
+        "type": "game",
         "spec": {
             "nbPeople": 3,
             "engine": "Construct 2",
             "duration": "4 mois"
         },
-        "description": "Jeu développé durant ma 1ere année à l'ICAN. Defend est un Bubble Shooter où le joueur prend le controle une tourelle d'un méca se trouvant au centre du niveau entouré d'agents ennemis."
+        "resume": "Jeu développé durant ma 1ere année à l'ICAN. Defend est un Bubble Shooter où le joueur prend le controle une tourelle d'un méca se trouvant au centre du niveau entouré d'agents ennemis.",
+        "video": "https://youtu.be/dkEeTCIne2w",
+        "description": "DEFEND est un Bubble Shooter où le joueur gagne des points en détruisant des billes par combinaison de couleur. Cependant, il devra surveilleur tout autour de lui pour ne pas se faire envahir et perdre la partie.",
+        "team": [
+            {
+                "name": "Nicolas Ruiz",
+                "role": "Graphic designer / Game designer"
+            },
+            { "name": "Johann Thuong Cong", "role": "Sound designer" },
+            { "name": "Mahdi Amri", "role": "Game developer / Game designer" }
+        ],
+        "skills": [
+            "Apprentissage de Construct 2",
+            "Première création d'un jeu en équipe",
+            "Mise en forme de document"
+        ]
     },
     {
         "id": 2,
@@ -18,12 +34,32 @@
         "title": "City Tag",
         "year": "2020",
         "cover": "Logo_City_Tag.jpg",
+        "type": "game",
         "spec": {
             "nbPeople": 5,
             "engine": "Unity3D",
             "duration": "4 mois"
         },
-        "description": "Jeu développé durant ma 2e année à l'ICAN. Le joueur incarne un tagueur habile qui devra montrer son art sur des panneaux publicitaires de la ville. Mais attention à ne pas se faire prendre par les forces de l'ordre."
+        "resume": "Jeu développé durant ma 2e année à l'ICAN. Le joueur incarne un tagueur habile qui devra montrer son art sur des panneaux publicitaires de la ville. Mais attention à ne pas se faire prendre par les forces de l'ordre.",
+        "video": "https://youtu.be/39G8wv01-cc",
+        "description": "CityTag est un jeu de parkour où l'on incarne un tagueur dans une ville, le joueur est capable de taguer de la couleur qu’il le souhaite. Il a pour objectif de réaliser different tag à des endroits donnes, sans se faire attraper par la police.",
+        "team": [
+            {
+                "name": "Bilel Bouvet",
+                "role": "Graphic designer"
+            },
+            { "name": "Charles Barrier", "role": "Sound designer" },
+            { "name": "Raphael Onno", "role": "VFX Artist" },
+            { "name": "Elwan Saillant", "role": "Level Designer" },
+            { "name": "Mahdi Amri", "role": "Game developer" }
+        ],
+        "skills": [
+            "Utilisation approfondi de Unity3D",
+            "Utilisation du système d'héritage",
+            "Utilisation de l'animator et de l'animation",
+            "Intégrations modèle 3D"
+        ],
+        "gameURL": "https://shinohdi.itch.io/citytag"
     },
     {
         "id": 3,
@@ -31,12 +67,34 @@
         "title": "Cywer",
         "year": "2021",
         "cover": "Logo_Cywer.png",
+        "type": "game",
         "spec": {
             "nbPeople": 6,
             "engine": "Unity3D",
             "duration": "8 mois"
         },
-        "description": "Jeu développé durant ma 3e année à l'ICAN. Vous prenez le contrôle d'un avatar aux capacité de défense multiple combattant des hordes de monstres afin d'avancer d'arène en arène."
+        "resume": "Jeu développé durant ma 3e année à l'ICAN. Vous prenez le contrôle d'un avatar aux capacité de défense multiple combattant des hordes de monstres afin d'avancer d'arène en arène.",
+        "video": "https://youtu.be/0W0Q1pETYQU",
+        "description": "CYWER est un jeu du genre Rogue LITE,  Hack’n Shoot en vue top, qui se déroule dans  un environnement 3D clos. Le jeu fonctionne en enchaînement d’arènes  et d’instances, dans lesquelles le joueur doit  faire face en 1er lieu à des vagues successives  d’ennemis dont leurs difficultées sont  croissantes à chaque nouvelle vague. Pour s’en débarrasser, le joueur peut  utiliser diverses compétences en utilisant la  ressource qu’il récoltera sur les cadavres de  ses ennemis. Puis il devra vaincre un boss pour finir  l’arène finale. A la fin il débloque une  nouvelle compétence permanente liée à  celui-ci, et peut avancer à la prochaine  instance.",
+        "team": [
+            {
+                "name": "Charles Barrier",
+                "role": "Sound designer"
+            },
+            {
+                "name": "Clément Paufler",
+                "role": "Graphiste 3D / Level Designer"
+            },
+            { "name": "Raphael Onno", "role": "VFX Artist / Game designer" },
+            { "name": "Antoine Dias", "role": "Game developer" },
+            { "name": "Guillaume Le Saint", "role": "Graphiste 2D / UI" },
+            { "name": "Mahdi Amri", "role": "Game developer" }
+        ],
+        "skills": [
+            "Utilisation approfondi de Unity3D",
+            "Première création d'un jeu en équipe",
+            "Mise en forme de document"
+        ]
     },
     {
         "id": 4,
@@ -44,12 +102,13 @@
         "title": "Kasa",
         "year": "2024",
         "cover": "Logo_Kasa.png",
+        "type": "web",
         "spec": {
             "nbPeople": 1,
             "engine": "React",
             "duration": "2 mois"
         },
-        "description": "Site web développé au cours de ma formation d'Intégrateur Web à Openclassrooms. Kasa est une entreprise de location d'appartements renseignants leurs détails et des photos pour les particuliers."
+        "resume": "Site web développé au cours de ma formation d'Intégrateur Web à Openclassrooms. Kasa est une entreprise de location d'appartements renseignants leurs détails et des photos pour les particuliers."
     },
     {
         "id": 5,
@@ -57,11 +116,12 @@
         "title": "ArgentBank",
         "year": "2024",
         "cover": "Logo_ArgentBank.png",
+        "type": "web",
         "spec": {
             "nbPeople": 1,
             "engine": "React",
             "duration": "2 mois"
         },
-        "description": "Site web développé au cours de ma formation d'Intégrateur Web à Openclassrooms. ArgentBank est une banque en ligne permettant aux utilisateurs de se connecter et d'accéder à leurs comptes bancaires."
+        "resume": "Site web développé au cours de ma formation d'Intégrateur Web à Openclassrooms. ArgentBank est une banque en ligne permettant aux utilisateurs de se connecter et d'accéder à leurs comptes bancaires."
     }
 ]

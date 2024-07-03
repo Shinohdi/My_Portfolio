@@ -1,0 +1,60 @@
+.page {
+  max-width: 1200px;
+  margin: auto;
+  margin-top: 50px;
+}
+.page__video {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.page__info {
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+.page__info h2 {
+  text-align: center;
+}
+.page__info--desc {
+  margin-bottom: 40px;
+}
+.page__info--details {
+  margin-bottom: 40px;
+}
+.page__info--details p {
+  margin: 0px 0px 5px 25px;
+}
+.page__info--team ul {
+  padding: 0;
+  margin-left: 25px;
+}
+.page__info--team ul li {
+  list-style: none;
+  margin-bottom: 5px;
+}
+.page__learn h2 {
+  margin: 0;
+  text-align: center;
+}
+.page__learn--skills {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 30px;
+  margin-top: 50px;
+}
+.page__learn--skills li {
+  font-size: 17px;
+}
+.page__game {
+  margin-top: 50px;
+  text-align: center;
+}
+.page__game h2 {
+  margin: 0;
+  margin-bottom: 25px;
+}
+.page__game a {
+  color: white;
+}/*# sourceMappingURL=ProjetPage.css.map */

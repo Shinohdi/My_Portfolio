@@ -32,7 +32,7 @@ function Accueil() {
                     Ou sinon envoyez-moi directement un mail à mon adresse :
                     <a href="mailto:mahdi.amr@gmail.com">
                         {' '}
-                        mahdi.amr@gmail.com
+                        mahdi.amr20@gmail.com
                     </a>
                 </p>
             </div>
