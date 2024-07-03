@@ -94,7 +94,8 @@
             "Utilisation approfondi de Unity3D",
             "Première création d'un jeu en équipe",
             "Mise en forme de document"
-        ]
+        ],
+        "gameURL": "https://shinohdi.itch.io/cywer"
     },
     {
         "id": 4,
@@ -105,10 +106,18 @@
         "type": "web",
         "spec": {
             "nbPeople": 1,
-            "engine": "React",
+            "engine": "React | CSS",
             "duration": "2 mois"
         },
-        "resume": "Site web développé au cours de ma formation d'Intégrateur Web à Openclassrooms. Kasa est une entreprise de location d'appartements renseignants leurs détails et des photos pour les particuliers."
+        "resume": "Site web développé au cours de ma formation d'Intégrateur Web à Openclassrooms. Kasa est une entreprise de location d'appartements renseignants leurs détails et des photos pour les particuliers.",
+        "video": "https://youtu.be/SIFopkaZ70M",
+        "description": "",
+        "skills": [
+            "Apprentissage de React",
+            "Meilleure utilisation du langage CSS",
+            "Meilleure utilisation du langage HTML"
+        ],
+        "site": "https://github.com/Shinohdi/Kasa_Project"
     },
     {
         "id": 5,
@@ -119,9 +128,18 @@
         "type": "web",
         "spec": {
             "nbPeople": 1,
-            "engine": "React",
+            "engine": "React | SCSS",
             "duration": "2 mois"
         },
-        "resume": "Site web développé au cours de ma formation d'Intégrateur Web à Openclassrooms. ArgentBank est une banque en ligne permettant aux utilisateurs de se connecter et d'accéder à leurs comptes bancaires."
+        "resume": "Site web développé au cours de ma formation d'Intégrateur Web à Openclassrooms. ArgentBank est une banque en ligne permettant aux utilisateurs de se connecter et d'accéder à leurs comptes bancaires.",
+        "video": "https://youtu.be/2CYK0FqVGZU",
+        "description": "",
+        "skills": [
+            "Meilleure utilisation de React",
+            "Apprentissage de Redux",
+            "Meilleure utilisation du langage SCSS",
+            "Écriture d'endpoints avec la directive Swagger"
+        ],
+        "site": "https://github.com/Shinohdi/ArgentBank-website"
     }
 ]

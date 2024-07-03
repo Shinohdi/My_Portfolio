@@ -47,14 +47,14 @@
 .page__learn--skills li {
   font-size: 17px;
 }
-.page__game {
+.page__game, .page__site {
   margin-top: 50px;
   text-align: center;
 }
-.page__game h2 {
+.page__game h2, .page__site h2 {
   margin: 0;
   margin-bottom: 25px;
 }
-.page__game a {
+.page__game a, .page__site a {
   color: white;
 }/*# sourceMappingURL=ProjetPage.css.map */
