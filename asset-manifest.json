@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/My_Portfolio/static/css/main.748e0d06.css",
-    "main.js": "/My_Portfolio/static/js/main.22fb9947.js",
+    "main.js": "/My_Portfolio/static/js/main.570ca47b.js",
     "reactPlayerYouTube.js": "/My_Portfolio/static/js/reactPlayerYouTube.8b000119.chunk.js",
     "reactPlayerSoundCloud.js": "/My_Portfolio/static/js/reactPlayerSoundCloud.b97f3868.chunk.js",
     "reactPlayerVimeo.js": "/My_Portfolio/static/js/reactPlayerVimeo.8471a7c5.chunk.js",
@@ -23,7 +23,7 @@
     "static/media/Logo_ArgentBank.png": "/My_Portfolio/static/media/Logo_ArgentBank.09c8bced9ffde80a38d3.png",
     "index.html": "/My_Portfolio/index.html",
     "main.748e0d06.css.map": "/My_Portfolio/static/css/main.748e0d06.css.map",
-    "main.22fb9947.js.map": "/My_Portfolio/static/js/main.22fb9947.js.map",
+    "main.570ca47b.js.map": "/My_Portfolio/static/js/main.570ca47b.js.map",
     "reactPlayerYouTube.8b000119.chunk.js.map": "/My_Portfolio/static/js/reactPlayerYouTube.8b000119.chunk.js.map",
     "reactPlayerSoundCloud.b97f3868.chunk.js.map": "/My_Portfolio/static/js/reactPlayerSoundCloud.b97f3868.chunk.js.map",
     "reactPlayerVimeo.8471a7c5.chunk.js.map": "/My_Portfolio/static/js/reactPlayerVimeo.8471a7c5.chunk.js.map",
@@ -41,6 +41,6 @@
   },
   "entrypoints": [
     "static/css/main.748e0d06.css",
-    "static/js/main.22fb9947.js"
+    "static/js/main.570ca47b.js"
   ]
 }
