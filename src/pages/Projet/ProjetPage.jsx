@@ -20,9 +20,8 @@ function ProjetPage() {
                         <ReactPlayer
                             url={urlVideo}
                             controls
-                            width={1200}
-                            height={600}
-                            className="page__video"
+                            width="100%"
+                            className="page__video--player"
                         />
                     </div>
                     <div className="page__info">

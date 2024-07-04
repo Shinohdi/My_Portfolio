@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-import { HashRouter as Router, Route, Routes } from 'react-router-dom';
+import { HashRouter, Route, Routes } from 'react-router-dom';
 import Header from './composants/Header/Header';
 import Accueil from './pages/Accueil/Accueil';
 import ProjetPage from './pages/Projet/ProjetPage';
@@ -9,12 +9,12 @@ import './indexStyle/index.css';
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
     <React.StrictMode>
-        <Router>
+        <HashRouter>
             <Header />
             <Routes>
-                <Route path="/My_Portfolio" element={<Accueil />} />
-                <Route path="/My_Portfolio/:titleId" element={<ProjetPage />} />
+                <Route path="/" element={<Accueil />} />
+                <Route path="/:titleId" element={<ProjetPage />} />
             </Routes>
-        </Router>
+        </HashRouter>
     </React.StrictMode>
 );

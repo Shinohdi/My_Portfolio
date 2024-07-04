@@ -7,7 +7,7 @@ function ApercuProjet({ projet }) {
     };
     return (
         <>
-            <Link to={`/My_Portfolio/${projet.titleId}`}>
+            <Link to={`/${projet.titleId}`}>
                 <ImageProjet
                     cover={IMG(projet.cover)}
                     spec={projet.spec}

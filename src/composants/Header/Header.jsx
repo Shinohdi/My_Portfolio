@@ -6,7 +6,7 @@ function Header() {
     return (
         <nav className="header">
             <div className="header__name">
-                <NavLink to={'/My_Portfolio/'} className="header__name--title">
+                <NavLink to={'/'} className="header__name--title">
                     <h1>Mahdi AMRI</h1>
                 </NavLink>
                 <p className="header__name--subtitle">Développeur</p>
