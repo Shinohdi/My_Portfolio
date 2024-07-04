@@ -13,10 +13,15 @@ function Accueil() {
                         <img src={avatar} alt="space invader ennemi" />
                     </div>
                     <p className="text">
-                        Actuellement à la recherche d’un emploi dans la
-                        conception de jeux vidéo. Âgé de 24 ans, je suis
-                        passionné de jeux vidéo mais aussi de créer et
-                        comprendre comment fonctionne leur système.
+                        <strong>Bienvenue dans mon portfolio !</strong>
+                        <br />
+                        Depuis mon plus jeune âge, je suis passionnée par les
+                        jeux vidéo. Cette passion m'a naturellement conduit à
+                        suivre un cursus en Game Design à l'ICAN, où j'ai pu me
+                        spécialiser dans le développement de jeux vidéo.
+                        Souhaitant élargir mes compétences et explorer de
+                        nouvelles opportunités, j'ai suivi une formation
+                        d'intégrateur web sur Openclassrooms.
                     </p>
                 </div>
             </div>
