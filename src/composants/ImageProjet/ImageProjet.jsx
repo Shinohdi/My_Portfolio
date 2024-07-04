@@ -1,6 +1,6 @@
 import { useState } from 'react';
 
-function ImageProjet({ cover, spec, title }) {
+function ImageProjet({ cover, spec, title, type }) {
     const [hidden, setHidden] = useState(true);
 
     return (
@@ -27,7 +27,7 @@ function ImageProjet({ cover, spec, title }) {
                         <p>{spec.duration}</p>
                     </div>
                     <div className="spec-text">
-                        <i className="fa-solid fa-gamepad"></i>
+                        <i className="fa-solid fa-gear"></i>
                         <p>{spec.engine}</p>
                     </div>
                 </div>

@@ -12,6 +12,7 @@ function ApercuProjet({ projet }) {
                     cover={IMG(projet.cover)}
                     spec={projet.spec}
                     title={projet.title}
+                    type={projet.type}
                 />
             </Link>
             <h3 className="projets__projet--title">
