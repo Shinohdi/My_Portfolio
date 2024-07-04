@@ -20,7 +20,9 @@ function Contact() {
                     form.current.reset();
                 },
                 (error) => {
-                    console.log(error);
+                    alert(
+                        `le message ne s'est pas envoyé. Message d'erreur ${error}`
+                    );
                 }
             );
     }

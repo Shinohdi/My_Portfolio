@@ -7,9 +7,6 @@ function ProjetPage() {
     const { titleId } = useParams();
     const projet = data.find((pro) => pro.titleId === titleId);
     const urlVideo = projet.video;
-    const IMG = (imgName) => {
-        return require(`../../images/${imgName}`);
-    };
 
     switch (projet.type) {
         case 'game':
@@ -21,6 +18,7 @@ function ProjetPage() {
                             url={urlVideo}
                             controls
                             width="100%"
+                            height={10}
                             className="page__video--player"
                         />
                     </div>

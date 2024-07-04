@@ -13,6 +13,10 @@
             padding-top: 56.25%;
             position: relative;
         }
+        &--player > div {
+            top: 0;
+            position: absolute;
+        }
     }
     &__info {
         margin-top: 50px;

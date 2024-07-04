@@ -111,7 +111,7 @@
         },
         "resume": "Site web développé au cours de ma formation d'Intégrateur Web à Openclassrooms. Kasa est une entreprise de location d'appartements renseignants leurs détails et des photos pour les particuliers.",
         "video": "https://youtu.be/SIFopkaZ70M",
-        "description": "",
+        "description": "Le site de Kasa étant codé il y a plus de 10 ans, j'ai du faire une refonte totale du site en React. Le site permet aux utilisateurs de louer un logement à travers un vaste catalogue. Ils pourront alors se renseigner sur différents points de ses logements et trouver lequel correspond à leurs besoins. Ils pourront d'ailleurs consulter la page 'À propos' afin de s'informer sur les valeurs de Kasa.",
         "skills": [
             "Apprentissage de React",
             "Meilleure utilisation du langage CSS",
@@ -133,7 +133,7 @@
         },
         "resume": "Site web développé au cours de ma formation d'Intégrateur Web à Openclassrooms. ArgentBank est une banque en ligne permettant aux utilisateurs de se connecter et d'accéder à leurs comptes bancaires.",
         "video": "https://youtu.be/2CYK0FqVGZU",
-        "description": "",
+        "description": "ArgentBank est une nouvelle banque en ligne qui souhaite percer dans le secteur bancaire. Grâce à des maquettes en HTML statique et aux CSS fourni, j'ai du créer l'application en React. Ce site va permettre aux utilisateurs de se connecter et d'accéder à leurs informations bancaires, ils pourront modifier leur nom d'utilisateur. Au vu du futur du site, Argentbank m'a demandé de leur écrire des exemples d'endpoints avec la directive Swagger pour les détails du compte d'un utilisateur",
         "skills": [
             "Meilleure utilisation de React",
             "Apprentissage de Redux",

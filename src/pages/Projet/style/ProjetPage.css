@@ -4,9 +4,19 @@
   margin-top: 50px;
 }
 .page__video {
+  width: auto;
+  height: auto;
   display: flex;
   flex-direction: column;
   align-items: center;
+}
+.page__video--player {
+  padding-top: 56.25%;
+  position: relative;
+}
+.page__video--player > div {
+  top: 0;
+  position: absolute;
 }
 .page__info {
   margin-top: 50px;
