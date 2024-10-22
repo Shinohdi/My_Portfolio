@@ -18,7 +18,7 @@ function Accueil() {
                     <p className="text">
                         <strong>Bienvenue dans mon portfolio !</strong>
                         <br />
-                        Depuis mon plus jeune âge, je suis passionnée par les
+                        Depuis mon plus jeune âge, je suis passionné par les
                         jeux vidéo. Cette passion m'a naturellement conduit à
                         suivre un cursus en Game Design à l'ICAN, où j'ai pu me
                         spécialiser dans le développement de jeux vidéo.
