@@ -10,7 +10,10 @@ function Accueil() {
                 <h2 className="home__about--title">- À propos de moi -</h2>
                 <div className="home__about--desc">
                     <div className="avatar">
-                        <img src={avatar} alt="space invader ennemi" />
+                        <img
+                            src={avatar}
+                            alt="Avatar en PixelArt me représentant"
+                        />
                     </div>
                     <p className="text">
                         <strong>Bienvenue dans mon portfolio !</strong>

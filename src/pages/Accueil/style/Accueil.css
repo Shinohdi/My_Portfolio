@@ -4,7 +4,6 @@
 }
 .home__about--title {
   margin: 0;
-  margin-bottom: 50px;
   text-align: center;
 }
 .home__about--desc {
@@ -13,13 +12,10 @@
   align-items: center;
 }
 .home__about--desc .avatar {
-  background-color: rgb(170, 170, 170);
-  padding: 20px 10px;
-  border: 2px solid;
-  border-radius: 50%;
-  margin-right: 30px;
+  margin-right: 45px;
 }
 .home__about--desc .text {
+  margin-top: 50px;
   max-width: 850px;
   font-size: 22px;
 }

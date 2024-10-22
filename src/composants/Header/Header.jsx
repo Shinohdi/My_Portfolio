@@ -9,7 +9,9 @@ function Header() {
                 <NavLink to={'/'} className="header__name--title">
                     <h1>Mahdi AMRI</h1>
                 </NavLink>
-                <p className="header__name--subtitle">Développeur</p>
+                <p className="header__name--subtitle">
+                    Game Developer | Web Developer
+                </p>
             </div>
             <div className="header__buttons">
                 <a
